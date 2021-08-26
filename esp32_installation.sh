@@ -1,5 +1,6 @@
 #install all dependencies
-sudo apt-get install git wget flex bison gperf python3 python3-pip python3-setuptools cmake ninja-build ccache libffi-dev libssl-dev dfu-util libusb-1.0-0
+sudo apt-get install git wget flex bison gperf python3 python3-pip python3-setuptools \
+             cmake ninja-build ccache libffi-dev libssl-dev dfu-util libusb-1.0-0
 
 #check for python3 
 python --version
