@@ -5,14 +5,11 @@ sudo apt-get install git wget flex bison gperf python3 python3-pip python3-setup
 python --version
 
 #make directory and clone repo
-
 mkdir -p ~/esp
 cd ~/esp
 git clone --recursive https://github.com/espressif/esp-idf.git
 
-
 #install esp32 and set tools
-
 cd ~/esp/esp-idf
 ./install.sh esp32
 
