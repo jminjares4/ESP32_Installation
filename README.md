@@ -30,7 +30,7 @@ python3 esp32_installation.py
 
 
 
-# **NOTE**
+# ESP-IDF alias
 - If you plan to ues esp-idf frequently, you can create an alias for executing export.sh:
 Copy and paste the following command to your shell’s profile (.profile, .bashrc, .zprofile, etc.)
     ```bash
