@@ -29,7 +29,6 @@ python3 esp32_installation.py
 - Use Windows Installer: [ESP32 Windows Installation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup.html)
 
 
-
 # ESP-IDF alias
 - If you plan to ues esp-idf frequently, you can create an alias for executing export.sh:
 Copy and paste the following command to your shell’s profile (.profile, .bashrc, .zprofile, etc.)
