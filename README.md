@@ -23,8 +23,10 @@ chmod +x installation.sh
 
 ### Install through python
 ```bash
-python3 esp32_installation.py
+sudo python3 esp32_installation.py
 ```
+- To build correctly, use Super User (ROOT) access to run the script
+
 ## Windows
 - Use Windows Installer: [ESP32 Windows Installation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup.html)
 
